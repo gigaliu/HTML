@@ -1,5 +1,37 @@
-img index-1{
-    position: relative;;
+.part1{
+    font-size: 20px;
+    font :center;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
+}
 
-    left:500px
+.part2{
+    font-size: 18px;
+    font :center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.part3{
+    font-size: 18px;
+    font :center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+.part4{
+    font-size: 18px;
+    font :center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+.part5{
+    font-size: 18px;
+    font :center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
