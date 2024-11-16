@@ -13,43 +13,38 @@
             <h1>Enjoy Your<br>Minimalist Lifestyle</h1>
         </header>
 
-        <div class="part1">
+        <section class="part1">
             <p>
                 
                 <br>The best cratfs in Taiwan. Get your free </br> shipping on the first order<br>
                 <br><img src="index-1.jpg " width="300" height="400"  style="float:right; margin: 5px;"  >
-
                 <br><button style="background-color: green; width:140px;height:50px;">Shop now</button>
             </p>
-        </div>
+        </section>
 
-        
-        <div STYLE="page-break-after: always;" >
             
 
-        <div class="part2">
+        <section class="part2">
                 <p>
                     <h2> Special Clays</h2>
-                    <br> A genral body formulation for contemporary</br> earthenware is 25% kaolin,25% ball clay,35% </br> quartz and 15% feldspar<br><br><span class="green">Learn More</span>
-                    <img src="index-2.jpg " width="800" height="300"  >
+                    <br> A genral body formulation for contemporary</br> earthenware is 25% kaolin,25% ball clay,35% </br> quartz and 15% feldspar<br><br><span class="green"><font color="green">Learn More</font>
                 </p>
-        </div>
+        </section>
 
 
-        <div class="part3">
+        <section class="part3">
             <p>
                 <h2> Less is more</h2>
-               <br> Trimming pottery transform a weighty Earth-</br> bounded pot into one that is a pleasure to hold, look </br> at, and use<br><br> Learn More
+               <br> Trimming pottery transform a weighty Earth-</br> bounded pot into one that is a pleasure to hold, look </br> at, and use<br><br> <font color="green">Learn More</font>
                 <img src="index-3.jpg" width="500" height="200"  style="float:right; margin: 5px;" >
             </p>
-        </div>
+        </section>
 
 
         <section class="part4">
             <p>
                 <h2> Marvelous Detial </h2>
-                <br> In Craftsman, the art director working with</br> marketers, develops or creates an idea of a new  </br> creation<br><br> Learn More
-                <img src="index-4.jpg" width="100" height="200" >
+                <br> In Craftsman, the art director working with</br> marketers, develops or creates an idea of a new  </br> creation<br><br><font color="green">Learn More</font>
             </p>
         </section>
 
