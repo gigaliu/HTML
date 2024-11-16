@@ -10,15 +10,15 @@
 <body>
     <div class="container">
         <header>
-            <h1>Enjoy Your<br>Minimalist Lifestyle</h1>
+            <h1> Craftsman</h1>
+            <h2>Enjoy Your<br>Minimalist Lifestyle</h2>
         </header>
 
         <section class="part1">
             <p>
-                
                 <br>The best cratfs in Taiwan. Get your free </br> shipping on the first order<br>
                 <br><img src="index-1.jpg " width="300" height="400"  style="float:right; margin: 5px;"  >
-                <br><button style="background-color: green; width:140px;height:50px;">Shop now</button>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><button style="background-color: green; width:140px;height:50px;">Shop now</button>
             </p>
         </section>
 
@@ -26,16 +26,19 @@
 
         <section class="part2">
                 <p>
+                    <img src="index-2.jpg" width="500" height="200"  style="float:left; margin: 5px;" >
                     <h2> Special Clays</h2>
                     <br> A genral body formulation for contemporary</br> earthenware is 25% kaolin,25% ball clay,35% </br> quartz and 15% feldspar<br><br><span class="green"><font color="green">Learn More</font>
+                    
+
                 </p>
         </section>
 
 
         <section class="part3">
             <p>
-                <h2> Less is more</h2>
-               <br> Trimming pottery transform a weighty Earth-</br> bounded pot into one that is a pleasure to hold, look </br> at, and use<br><br> <font color="green">Learn More</font>
+                <br><br><br><br><br><h2> Less is more</h2>
+                Trimming pottery transform a weighty Earth-</br> bounded pot into one that is a pleasure to hold, look </br> at, and use<br><br> <font color="green">Learn More</font>
                 <img src="index-3.jpg" width="500" height="200"  style="float:right; margin: 5px;" >
             </p>
         </section>
@@ -43,7 +46,8 @@
 
         <section class="part4">
             <p>
-                <h2> Marvelous Detial </h2>
+                <br><br><br><br><br><br><br><br><h2> Marvelous Detial </h2>
+                <img src="index-4.jpg" width="500" height="200"  style="float:right; margin: 5px;" >
                 <br> In Craftsman, the art director working with</br> marketers, develops or creates an idea of a new  </br> creation<br><br><font color="green">Learn More</font>
             </p>
         </section>
@@ -51,7 +55,7 @@
 
         <section class="part5">
             <p>
-                <img src="index-5.jpg" width="1000" height="200" style="margin: 0 auto; display: block;" ></code>
+                <br><br><br><br><img src="index-5.jpg" width="1000" height="200" style="margin: 0 auto; display: block;" ></code>
             </p>
         </section>
 
